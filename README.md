@@ -36,8 +36,8 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 
 ### Contact
 
-[![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-gray?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://discord.com/users/246746545561665537)
-[![Discord](https://img.shields.io/badge/camora.-gray?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.gg/7ZzUk3Z)
+[![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-gray?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://camora.dev)
+[![Discord](https://img.shields.io/badge/camora.-gray?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/246746545561665537)
 [![Email](https://img.shields.io/badge/asriel@camora.dev-gray.svg?style=for-the-badge&logo=gmail&label=Email&logoColor=white&labelColor=%23c14438)](mailto:asriel@camora.dev)
 [![GitHub](https://img.shields.io/badge/WorkingRobot-gray.svg?style=for-the-badge&logo=github&label=Github&logoColor=white&labelColor=%23121011)](https://github.com/WorkingRobot)
 [![Bluesky](https://img.shields.io/badge/asriel.camora.dev-gray?style=for-the-badge&label=Bluesky&logo=Bluesky&logoColor=white&labelColor=%230285FF)](https://bsky.app/profile/asriel.camora.dev)

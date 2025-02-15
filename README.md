@@ -1,5 +1,6 @@
 ## Nice to meet you! (´｡• ω •｡`)
 
+<span align="right">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true"
@@ -9,7 +10,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=rose"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" alt="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula" />
+  <img align="right" alt="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula">
 </picture>
 <picture>
   <source
@@ -20,11 +21,17 @@
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=rose"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" alt="WakaTime Stats" width="50%"src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=dracula&hide_border=true" />
+  <img align="right" alt="WakaTime Stats" width="50%"src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=dracula&hide_border=true">
 </picture>
 <img align="right" alt="View Counter" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&redirect=true">
+  <img align="right" alt="Currently playing on Spotify" width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=natemoo-re&show_offline=true&interchange=false&bar_color_cover=true">
+</a>
+</span>
 
 I'm Asriel, a software developer & mathematician from the United States and am currently pursuing a graduate degree in applied mathematics. I love writing code in my free time, and I'm always looking for new projects to work on. **All of my work is open-source and free to use**, so feel free to check out my [projects](https://github.com/WorkingRobot?tab=repositories).
+
+---
 
 ### Contact
 
@@ -35,6 +42,8 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 [![Bluesky](https://img.shields.io/badge/asriel.camora.dev-gray?style=for-the-badge&label=Bluesky&logo=Bluesky&logoColor=white&labelColor=%230285FF)](https://bsky.app/profile/asriel.camora.dev)
 [![Mastodon](https://img.shields.io/badge/@asriel.camora.dev-gray?style=for-the-badge&label=Mastodon&logo=mastodon&logoColor=white&labelColor=%232B90D9)](https://mstdn.camora.dev/@asriel)
 [![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-gray.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
+
+---
 
 ### Languages
 
@@ -63,11 +72,3 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-
----
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=natemoo-re&show_offline=true&interchange=false&bar_color_cover=true" alt="Currently playing on Spotify">
-  </a>
-</p>

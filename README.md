@@ -1,6 +1,6 @@
 ## Nice to meet you! (´｡• ω •｡`)
 
-<span align="right">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true"
@@ -27,9 +27,8 @@
   <img title="View Count" align="right" alt="View Count" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </picture>
 <a title="Open in Spotify" href="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&redirect=true">
-  <img align="right" alt="Currently playing on Spotify" width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=natemoo-re&show_offline=true&interchange=true&bar_color_cover=true">
+  <img align="right" alt="Currently playing on Spotify" width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=novatorem&show_offline=true&interchange=false&bar_color_cover=true">
 </a>
-</span>
 
 I'm Asriel, a software developer & mathematician from the United States and am currently pursuing a graduate degree in applied mathematics. I love writing code in my free time, and I'm always looking for new projects to work on. **All of my work is open-source and free to use**, so feel free to check out my [projects](https://github.com/WorkingRobot?tab=repositories).
 

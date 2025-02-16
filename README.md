@@ -39,9 +39,6 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 [![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-gray?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://camora.dev)
 [![Discord](https://img.shields.io/badge/camora.-gray?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/246746545561665537)
 [![Email](https://img.shields.io/badge/asriel@camora.dev-gray.svg?style=for-the-badge&logo=gmail&label=Email&logoColor=white&labelColor=%23c14438)](mailto:asriel@camora.dev)
-[![GitHub](https://img.shields.io/badge/WorkingRobot-gray.svg?style=for-the-badge&logo=github&label=Github&logoColor=white&labelColor=%23121011)](https://github.com/WorkingRobot)
-[![Bluesky](https://img.shields.io/badge/asriel.camora.dev-gray?style=for-the-badge&label=Bluesky&logo=Bluesky&logoColor=white&labelColor=%230285FF)](https://bsky.app/profile/asriel.camora.dev)
-[![Mastodon](https://img.shields.io/badge/@asriel.camora.dev-gray?style=for-the-badge&label=Mastodon&logo=mastodon&logoColor=white&labelColor=%232B90D9)](https://mstdn.camora.dev/@asriel)
 [![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-gray.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
 [![GPG Key](https://custom-icon-badges.demolab.com/badge/CE7C326BD1B3CB1D-gray.svg?style=for-the-badge&label=GPG%20Key&labelColor=%231581C3&logo=gpg&logoColor=white)](https://camora.dev/public.gpg)
 

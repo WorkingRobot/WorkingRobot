@@ -24,7 +24,7 @@
   <img align="right" alt="WakaTime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=dracula&hide_border=true">
 </picture>
 <picture>
-  <img title="View Count" align="right" alt="View Count" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  <img title="View Count" align="right" alt="View Count" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </picture>
 <a title="Open in Spotify" href="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&redirect=true">
   <img align="right" alt="Currently playing on Spotify" width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=novatorem&show_offline=true&interchange=false&bar_color_cover=true">
@@ -43,6 +43,7 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 [![Bluesky](https://img.shields.io/badge/asriel.camora.dev-gray?style=for-the-badge&label=Bluesky&logo=Bluesky&logoColor=white&labelColor=%230285FF)](https://bsky.app/profile/asriel.camora.dev)
 [![Mastodon](https://img.shields.io/badge/@asriel.camora.dev-gray?style=for-the-badge&label=Mastodon&logo=mastodon&logoColor=white&labelColor=%232B90D9)](https://mstdn.camora.dev/@asriel)
 [![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-gray.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
+[![GPG Key](https://custom-icon-badges.demolab.com/badge/CE7C326BD1B3CB1D-gray.svg?style=for-the-badge&label=GPG%20Key&labelColor=%231581C3&logo=gpg&logoColor=white)](https://camora.dev/public.gpg)
 
 ---
 

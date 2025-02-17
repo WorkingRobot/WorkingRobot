@@ -3,25 +3,25 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f38ba8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=rose"
+    srcset="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=ea76cb"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" alt="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&theme=dracula">
+  <img align="right" alt="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=WorkingRobot&include_all_commits=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f38ba8">
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=dracula&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f38ba8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=rose"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=ea76cb"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" alt="WakaTime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&theme=dracula&hide_border=true">
+  <img align="right" alt="WakaTime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f38ba8">
 </picture>
 <picture>
   <img title="View Count" align="right" alt="View Count" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
@@ -36,11 +36,11 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 
 ### Contact
 
-[![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-gray?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://camora.dev)
-[![Discord](https://img.shields.io/badge/camora.-gray?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/246746545561665537)
-[![Email](https://img.shields.io/badge/asriel@camora.dev-gray.svg?style=for-the-badge&logo=gmail&label=Email&logoColor=white&labelColor=%23c14438)](mailto:asriel@camora.dev)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-gray.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
-[![GPG Key](https://custom-icon-badges.demolab.com/badge/CE7C326BD1B3CB1D-gray.svg?style=for-the-badge&label=GPG%20Key&labelColor=%231581C3&logo=gpg&logoColor=white)](https://camora.dev/public.gpg)
+[![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-%231e1e2e?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://camora.dev)
+[![Discord](https://img.shields.io/badge/camora.-%231e1e2e?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/246746545561665537)
+[![Email](https://img.shields.io/badge/asriel@camora.dev-%231e1e2e.svg?style=for-the-badge&logo=gmail&label=Email&logoColor=white&labelColor=%23c14438)](mailto:asriel@camora.dev)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-%231e1e2e.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
+[![GPG Key](https://custom-icon-badges.demolab.com/badge/CE7C326BD1B3CB1D-%231e1e2e.svg?style=for-the-badge&label=GPG%20Key&labelColor=%231581C3&logo=gpg&logoColor=white)](https://camora.dev/public.gpg)
 
 ---
 

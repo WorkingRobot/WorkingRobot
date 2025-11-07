@@ -24,19 +24,20 @@
   <img align="right" alt="WakaTime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WorkingRobot&langs_count=10&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f38ba8">
 </picture>
 <picture>
-  <img title="View Count" align="right" alt="View Count" width="50%" src="https://moe.tans.fun/@WorkingRobot?name=WorkingRobot&theme=miku&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  <img title="View Count" align="right" alt="View Count" width="50%" src="https://count.camora.dev/@WorkingRobot?name=WorkingRobot&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </picture>
 <a title="Open in Spotify" href="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&redirect=true">
   <img align="right" alt="Currently playing on Spotify" width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7vgcmilltkpf5j3vjgxez27sf&cover_image=true&theme=novatorem&show_offline=true&interchange=false&bar_color_cover=true">
 </a>
 
-I'm Asriel, a software developer & mathematician from the United States and am currently pursuing a graduate degree in applied mathematics. I love writing code in my free time, and I'm always looking for new projects to work on. **All of my work is open-source and free to use**, so feel free to check out my [projects](https://github.com/WorkingRobot?tab=repositories).
+I'm Asriel, a software developer & mathematician from the United States. I'm currently employed by [LLNL](https://llnl.gov) and pursuing a graduate degree in computer science. I love writing code in my free time, and I'm always looking for new projects to work on. **All of my work is open-source and free to use**, so feel free to check out my [projects](https://github.com/WorkingRobot?tab=repositories).
 
 ---
 
 ### Contact
 
 [![Website](https://custom-icon-badges.demolab.com/badge/camora.dev-%231e1e2e?style=for-the-badge&label=Website&labelColor=teal&logo=globe2)](https://camora.dev)
+[![Bluesky](https://img.shields.io/badge/asriel.camora.dev-%231e1e2e?style=for-the-badge&logo=Bluesky&logoColor=white&label=Bluesky&labelColor=%231185FE)](https://bsky.app/profile/asriel.camora.dev)
 [![Discord](https://img.shields.io/badge/camora.-%231e1e2e?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=%235865F2)](https://discord.com/users/246746545561665537)
 [![Email](https://img.shields.io/badge/asriel@camora.dev-%231e1e2e.svg?style=for-the-badge&logo=gmail&label=Email&logoColor=white&labelColor=%23c14438)](mailto:asriel@camora.dev)
 [![Twitter](https://custom-icon-badges.demolab.com/badge/Asriel__Dev-%231e1e2e.svg?style=for-the-badge&label=Twitter&labelColor=%231DA1F2&logo=twitter2)](https://twitter.com/Asriel_Dev)
@@ -59,7 +60,7 @@ I'm Asriel, a software developer & mathematician from the United States and am c
 
 ### Tools
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%234C4C4C.svg?style=for-the-badge&logo=sublime-text&logoColor=%23FF9800)
 ![IDA](https://custom-icon-badges.demolab.com/badge/IDA-gray?style=for-the-badge&logoColor=white&logo=ida)
